@@ -1,4 +1,4 @@
-import { db_client  } from "$db/postgres";
+import { db_client } from "$lib/server/db/postgres"
 
 
 
